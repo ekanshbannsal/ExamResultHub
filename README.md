@@ -4,6 +4,12 @@ A full-stack MERN (MongoDB, Express.js, React.js, Node.js) web application built
 
 ---
 
+## 🌐 Live Deployments
+- **Backend API (Render):** [https://examresulthub.onrender.com](https://examresulthub.onrender.com)
+- **API Health Check:** [https://examresulthub.onrender.com/](https://examresulthub.onrender.com/)
+- **Frontend (Vercel):** Deployed on Vercel
+
+
 ## 📌 Problem Statement Overview
 - **Problem Statement ID:** PS2
 - **Domain:** Education / Examination
