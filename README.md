@@ -7,7 +7,7 @@ A full-stack MERN (MongoDB, Express.js, React.js, Node.js) web application built
 ## 🌐 Live Deployments
 - **Backend API (Render):** [https://examresulthub.onrender.com](https://examresulthub.onrender.com)
 - **API Health Check:** [https://examresulthub.onrender.com/](https://examresulthub.onrender.com/)
-- **Frontend (Vercel):** Deployed on Vercel
+- **Frontend (Vercel):** [https://exam-result-hub.vercel.app](https://exam-result-hub.vercel.app)
 
 
 ## 📌 Problem Statement Overview
